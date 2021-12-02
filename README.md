@@ -1,3 +1,3 @@
-# spring-security-jwt-example
+# Spring security with JWT
 
 Reference : https://jwt.io/
